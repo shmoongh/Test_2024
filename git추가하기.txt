@@ -17,3 +17,5 @@ $
 
 5. workdir-->staging-->commit--->push
 6. workdir--->brench 및 다른거
+
+7. git.com에서 repo생성후 연동
