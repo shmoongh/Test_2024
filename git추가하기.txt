@@ -1,0 +1,19 @@
+1. 디렉토리
+2. gitbash실행
+3. 
+shmoon@shmoongh MINGW64 /d/100_Python_exercise_Project/Test_2024
+$ git init
+Reinitialized existing Git repository in D:/100_Python_exercise_Project/Test_2024/.git/
+
+shmoon@shmoongh MINGW64 /d/100_Python_exercise_Project/Test_2024
+$ git config --global user.name "shmoongh"
+
+shmoon@shmoongh MINGW64 /d/100_Python_exercise_Project/Test_2024
+$ git config --global user.email "shmoongh@naver.com"
+
+shmoon@shmoongh MINGW64 /d/100_Python_exercise_Project/Test_2024
+$
+4. 이니셜 및 이름(깃허브에 등록한) 및 이멜
+
+5. workdir-->staging-->commit--->push
+6. workdir--->brench 및 다른거
