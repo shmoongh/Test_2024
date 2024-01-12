@@ -19,3 +19,6 @@ $
 6. workdir--->brench 및 다른거
 
 7. git.com에서 repo생성후 연동
+
+8. 변동->스테이징->커밋->푸시
+9. 웹변동->저장(commit changes)->풀로 로컬로 당겨가기
