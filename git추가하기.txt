@@ -19,3 +19,9 @@ $
 6. workdir--->brench 및 다른거
 
 7. git.com에서 repo생성후 연동
+
+
+
+
+
+10. 깃허브에서는 Danger Zone에서 레포관련 지우기나 설정을 한다.
